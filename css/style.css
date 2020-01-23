@@ -16,7 +16,7 @@ h2{
 }
 
 p{
-	font-size: 24px
+	font-size: 24px;
 	padding-top: 20px;
 }
 
@@ -50,6 +50,10 @@ text-align: right;
 
 }
 
+.h1 #yellow{
+	text-shadow:5px 5px 2px #c7e2c7;
+}
+
 #green{	
 	text-align: left;
 	background-color:green;
@@ -59,5 +63,5 @@ text-align: right;
 footer{
 	text-align: right;
 	padding-bottom:10px;
-	padding-right: 
+	padding-right: 10px;
 }
